@@ -1,0 +1,12 @@
+{
+  "name": "suara-mabar-server",
+  "version": "1.0.0",
+  "description": "Server signaling untuk aplikasi Suara Mabar",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
